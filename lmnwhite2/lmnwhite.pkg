@@ -1,4 +1,5 @@
-D 'relicoef': Raykov's factor reliability coefficient Use relicoef With STATA 19
+D 'lmnwhite2': 2SLS-IV White IM Non Normality Test Use lmnwhite2 With (In) R Software
 D
-F relicoef.ado
-F relicoef.sthlp
+F lmnwhite2.ado
+F lmnwhite2.dlg
+F lmnwhite2.sthlp
