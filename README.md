@@ -1,5 +1,7 @@
 # lmnwhite2
-2SLS-IV White IM Non Normality Test Use lmnwhite2 With (In) R Software
+2SLS-IV White IM Non Normality Test Use lmnwhite2 With STATA 19
+
+https://www.youtube.com/watch?v=KuwRjMt4_wQ
 
 Olah Data Semarang
 
